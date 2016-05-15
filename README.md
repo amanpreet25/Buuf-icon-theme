@@ -5,4 +5,5 @@ Buuf is a comprehensive icon theme by Paul Mattahan Davey. Like much of his work
 # How to Install
 1. Download the zip folder from the repository.
 2. Extract the zip folder.
-3. 
+3. Rename the extracted folder to Buuf-icon-theme.
+4. Copy the folder Buuf-icon-theme to /usr/share/icons/
